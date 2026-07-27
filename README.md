@@ -11,7 +11,7 @@
 
 - 🎓 Student learning software development
 - 💡 Currently focused on **Java** and **JavaFX**
-- 🌱 Learning by building real projects (like the calculator below!)
+- 🌱 Learning by building real projects
 - 📫 Reach me at: **abisheksapkota213@gmail.com**
 - ⚡ Fun fact: *My hobby is RUNNING and favorite drinks is WATER*
 
