@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abishek Sapkota</h1>
 <h3 align="center">A student learning to code, currently exploring Java, JavaFX, and building small projects to level up 🚀</h3>
+<h3 align="center"> For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his mind will remain the greatest enemy. </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+small+projects;Always+improving+%F0%9F%93%88" alt="Typing SVG" />
