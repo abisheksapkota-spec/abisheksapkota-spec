@@ -44,18 +44,44 @@
 
 ---
 
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abisheksapkota-spec&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheksapkota-spec&layout=compact&theme=default" />
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api?username=abisheksapkota-spec&show_icons=true&theme=default&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abisheksapkota-spec&theme=default" />
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheksapkota-spec&layout=compact&theme=default" />
 </p>
 
----
+<p align="center">
+  <img height="165"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=abisheksapkota-spec&theme=default" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="./github-activity.svg"
+  alt="GitHub Activity Graph"
+  width="100%">
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ### 🌐 Connect With Me
 
