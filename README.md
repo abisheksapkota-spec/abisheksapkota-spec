@@ -49,39 +49,55 @@
 
 <td width="50%" valign="top">
 
-### 📊 GitHub Stats
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-  src="https://github-readme-stats.vercel.app/api?username=abisheksapkota-spec&show_icons=true&theme=default&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abisheksapkota-spec&show_icons=true&theme=default&count_private=true"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheksapkota-spec&layout=compact&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheksapkota-spec&layout=compact&theme=default"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img height="165"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=abisheksapkota-spec&theme=default" />
+  <img
+    src="https://streak-stats.demolab.com?user=abisheksapkota-spec&theme=default"
+    width="100%"
+  />
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./github-activity.svg"
-  alt="GitHub Activity Graph"
-  width="100%">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abisheksapkota-spec&theme=github-compact&hide_border=true"
+    width="100%"
+  />
 </p>
 
 </td>
 
 </tr>
 </table>
+
+---
 
 ### 🌐 Connect With Me
 
