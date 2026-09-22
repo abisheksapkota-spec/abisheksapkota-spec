@@ -47,7 +47,7 @@ but for one who has failed to do so, his mind will remain the greatest enemy.
 <p align="center">
   <a href="https://github.com/abisheksapkota-spec/JavaFXCalculator">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=abisheksapkota-spec&repo=JavaFXCalculator&theme=default"
+      src="https://github-readme-stats-tau-three-32.vercel.app/api/pin/?username=abisheksapkota-spec&repo=JavaFXCalculator&theme=default"
       alt="JavaFX Calculator repo card"
     />
   </a>
@@ -67,7 +67,7 @@ A desktop calculator built with JavaFX and FXML, using Maven for builds and an M
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abisheksapkota-spec&show_icons=true&theme=default&count_private=true"
+    src="https://github-readme-stats-tau-three-32.vercel.app/api?username=abisheksapkota-spec&show_icons=true&theme=default&count_private=true"
     alt="Abishek's GitHub stats"
     width="100%"
   />
@@ -75,7 +75,7 @@ A desktop calculator built with JavaFX and FXML, using Maven for builds and an M
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheksapkota-spec&layout=compact&theme=default"
+    src="https://github-readme-stats-tau-three-32.vercel.app/api/top-langs/?username=abisheksapkota-spec&layout=compact&theme=default"
     alt="Top languages"
     width="100%"
   />
@@ -97,7 +97,7 @@ A desktop calculator built with JavaFX and FXML, using Maven for builds and an M
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abisheksapkota-spec&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph-eight-mu.vercel.app/graph?username=abisheksapkota-spec&theme=github-compact&hide_border=true"
     alt="GitHub activity graph"
     width="100%"
   />
