@@ -126,6 +126,14 @@ A desktop calculator built with JavaFX and FXML, using Maven for builds and an M
       alt="Email"
     />
   </a>
+
+<a href="https://tryhackme.com/p/abisheksapkota213">
+  <img
+    src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+    alt="TryHackMe"
+  />
+</a>
+ 
 </p>
 
 ---
