@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abishek Sapkota</h1>
 
 <h3 align="center">
-A student learning to code, currently exploring Java, JavaFX, and building small projects to level up 🚀
+IT student at CQUniversity Sydney (Cyber Security major, App Development minor), building projects in Java, Python and Linux 🚀
 </h3>
 
 <h3 align="center">
@@ -11,8 +11,8 @@ but for one who has failed to do so, his mind will remain the greatest enemy.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+small+projects;Inspired+by+Bhagavad+Gita;Always+improving+%F0%9F%93%88"
-    alt="Typing SVG showcasing: Building small projects, Inspired by Bhagavad Gita, Always improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Learning+cyber+security;Building+small+projects;Inspired+by+Bhagavad+Gita;Always+improving+%F0%9F%93%88"
+    alt="Typing SVG showcasing: Learning cyber security, Building small projects, Inspired by Bhagavad Gita, Always improving"
   />
 </p>
 
@@ -20,10 +20,10 @@ but for one who has failed to do so, his mind will remain the greatest enemy.
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student learning software development
-- 💡 Currently focused on **Java** and **JavaFX**
-- 🌱 Learning by building real projects
-- 📫 Reach me at: **abisheksapkota213@gmail.com**
+- 🎓 Bachelor of Information Technology student, completing June 2028
+- 🔐 Interested in networking, security and reliable systems
+- 💡 Working with **Java**, **JavaFX** and **Python**
+- 🌱 Learning by building real projects and doing hands-on labs
 - ⚡ Fun fact: *My hobby is RUNNING and my favorite drink is WATER*
 
 ---
@@ -33,6 +33,8 @@ but for one who has failed to do so, his mind will remain the greatest enemy.
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaFX-2E9EF7?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -42,9 +44,20 @@ but for one who has failed to do so, his mind will remain the greatest enemy.
 
 ---
 
-### 📌 Featured Project
+### 📌 Projects
+
+- 🌐 **[Multi-Site Secure Network](https://github.com/abisheksapkota-spec/coit12202-a2-multisite-network)**: a three-site network built and secured by our team, with federated authentication, segmented firewalls, encrypted site-to-site connectivity and intrusion detection.
+- 🔎 **[Log Analyser](https://github.com/abisheksapkota-spec/log-analyser)** *(in progress, team project)*: a Python tool that detects brute-force SSH logins and generates JSON, CSV and HTML reports.
+- 🧮 **[JavaFX Calculator](https://github.com/abisheksapkota-spec/JavaFXCalculator)**: a desktop calculator built with JavaFX and FXML, using Maven and an MVC-style design.
+- 📈 **[Cyber Career Roadmap](https://github.com/abisheksapkota-spec/cyber-career-roadmap)**: my study dashboard and daily log, with automated progress tracking.
 
 <p align="center">
+  <a href="https://github.com/abisheksapkota-spec/coit12202-a2-multisite-network">
+    <img
+      src="https://github-readme-stats-tau-three-32.vercel.app/api/pin/?username=abisheksapkota-spec&repo=coit12202-a2-multisite-network&theme=default"
+      alt="Multi-site network repo card"
+    />
+  </a>
   <a href="https://github.com/abisheksapkota-spec/JavaFXCalculator">
     <img
       src="https://github-readme-stats-tau-three-32.vercel.app/api/pin/?username=abisheksapkota-spec&repo=JavaFXCalculator&theme=default"
@@ -53,8 +66,11 @@ but for one who has failed to do so, his mind will remain the greatest enemy.
   </a>
 </p>
 
-**JavaFX Calculator**  
-A desktop calculator built with JavaFX and FXML, using Maven for builds and an MVC-style architecture separating UI from logic.
+---
+
+### 📚 Currently Learning
+
+TryHackMe (Cyber Security 101), SadServers (Linux troubleshooting), ISC2 Certified in Cybersecurity, Cisco CCST Cybersecurity
 
 ---
 
@@ -120,20 +136,12 @@ A desktop calculator built with JavaFX and FXML, using Maven for builds and an M
     />
   </a>
 
-  <a href="mailto:abisheksapkota213@gmail.com">
+  <a href="https://tryhackme.com/p/abisheksapkota213">
     <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+      alt="TryHackMe"
     />
   </a>
-
-<a href="https://tryhackme.com/p/abisheksapkota213">
-  <img
-    src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
-    alt="TryHackMe"
-  />
-</a>
- 
 </p>
 
 ---
